@@ -1,1 +1,25 @@
-
+German              English
+Raesfeld            Raesfeld (city)
+Flughafen           airport
+Berlin              Berlin (city)
+Bratwurst           bratwurst (sausage)
+Hauptstrasse        main road
+Brot                bread
+Klimmaanlage        air conditioning
+Rammstein           Rammstein (band)
+Porsche             Porsche (car)
+BMW                 BMW (car)
+Biergarten          beer garden
+Ratskeller          bar near or under council room (?)
+Dirndel             dirndel (german folk dress)
+Lederhose           lederhose (german folk dress)
+Schloss             lock
+Wettbewerbsfashig   competive
+Mehlhase            Frau Mehlhase (our professor :p)
+Gebaeck             pastries
+Baeckerei           bakery
+Hund                dog
+Doener              doner kebab
+Apfelkuchen         apple cake
+Schloss             lock
+Eltz                Eltz (castle)
